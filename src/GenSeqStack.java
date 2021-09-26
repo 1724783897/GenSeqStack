@@ -59,7 +59,7 @@ public class GenSeqStack<E>{
     }
 
     public Boolean isEmpty(){
-        return n==0;
+        return n<0;
     }
 
 
